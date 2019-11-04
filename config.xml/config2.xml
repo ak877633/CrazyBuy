@@ -1,0 +1,15 @@
+        <?xml version="1.0" encoding="UTF-8"?>
+        <widget xmlns:gap="http://phonegap.com/ns/1.0" xmlns="http://www.w3.org/ns/widgets" version="1.0.0" id="tw.edu.nfu.eZTravel">
+        <!-- versionCode is optional and Android only -->
+        <name>CrazyBuy</name>
+        <description>
+            An example for phonegap build APP from yflan@nfu.edu.tw. 
+        </description>
+        <author email="a0906043635@gmail.com.tw" href="http://127.0.0.1:5500/10%E6%9C%8828%E6%97%A5/index.html#z2">
+            Yi-Ci Lai 
+        </author>
+        <content src="index.html"/>
+        <platform name="android">
+            <icon src="res/map.png"/>
+        </platform>
+    </widget>
